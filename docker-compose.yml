@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : aditya0904/dockerimg1:tagname
      ports :
          - "8000:8000"
